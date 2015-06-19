@@ -1953,7 +1953,7 @@ Sasha: If you like it then you should have put a ring on it.
 Sasha: Get it? Because trees have rings.
 Tree: ...
 Sasha: It's okay, tree. You don't have to get it You're just a tree.
-return
+stop
 ]]></Script>
             <DialogOptions>
               <DialogOption>
